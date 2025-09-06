@@ -2,7 +2,7 @@ import pandas as pd
 
 # Create a simple dataset
 data = {
-    "Name": ["Alices", "Bob", "Charlie", "Dayo"],
+    "Name": ["Alices", "Bobs", "Charlie", "Dayo"],
     "Age": [25, 30, 35, 40],
     "Country": ["USA", "UK", "Canada", "Nigeria"]
 }
